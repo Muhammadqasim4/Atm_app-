@@ -1,9 +1,10 @@
 {
-  "name": "atm_app",
-  "version": "1.0.0",
+  "name": "cli-based-atm-application",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin":"main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
